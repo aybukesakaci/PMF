@@ -1,1 +1,1 @@
-# PMF
+# PMF (probability mass function)
